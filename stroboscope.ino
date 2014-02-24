@@ -32,7 +32,7 @@ volatile boolean readState = false;
 unsigned long previous_time = 0;
 
 /* PINS */
-const int D7 = 9;
+const int D7 = 8;
 const int D6 = 7;
 const int D5 = 6;
 const int D4 = 5;
